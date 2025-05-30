@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.input-container {
+    margin-bottom: 20px;
+}
+
+input, select {
+    margin-right: 10px;
+    padding: 5px;
+}
+
+button {
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+li {
+    margin-bottom: 10px;
+}
